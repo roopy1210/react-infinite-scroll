@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import InfiniteScroll from "react-infinite-scroll-component";
 
 // API Key
-const key = "0f5e5765115b2938de9a4d1bb396ef19";
+const key = "API발급키";
 
 export default function App() {
   const [movies, setMvoies] = useState([]);
